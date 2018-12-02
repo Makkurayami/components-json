@@ -1,0 +1,16 @@
+[
+  {
+    "name" : "Спойлер",
+    "id" : "common-spoiler",
+    "html" : "templates/common-spoiler.tpl",
+    "scss" : "_assets/_scss/bem/common-spoiler.scss",
+    "js" : "_assets/_js/commonSpoiler.js"
+  },
+  {
+    "name" : "Табы",
+    "id" : "common-tab",
+    "html" : "templates/common-tab.tpl",
+    "scss" : "_assets/_scss/bem/common-tab.scss",
+    "js" : "_assets/_js/commonTab.js"
+  }
+]
