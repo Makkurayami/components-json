@@ -1,16 +1,16 @@
-[
-  {
-    "name" : "Спойлер",
-    "id" : "common-spoiler",
-    "html" : "templates/common-spoiler.tpl",
+"components" : {
+  "commonSpoiler" : {
+    "name" : "Обычный спойлер",
+    "tag" : "Спойлеры",
+    "html" : "/src/assets/html/common-tab.html",
     "scss" : "_assets/_scss/bem/common-spoiler.scss",
     "js" : "_assets/_js/commonSpoiler.js"
   },
-  {
-    "name" : "Табы",
-    "id" : "common-tab",
-    "html" : "templates/common-tab.tpl",
+    "commonTabs" : {
+    "name" : "Обычные табы",
+    "tag" : "Табы",
+    "html" : "/src/assets/html/common-tab.html",
     "scss" : "_assets/_scss/bem/common-tab.scss",
     "js" : "_assets/_js/commonTab.js"
-  }
-]
+    }
+}
